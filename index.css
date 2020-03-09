@@ -1,0 +1,25 @@
+html{
+  font-family: 'Courier New', Courier, monospace;
+}
+nav{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color: #333;
+  height: 3rem;
+}
+
+nav a{
+  text-decoration: none;
+  color: red;
+}
+img{
+  max-width: 80%;
+}
+
+.container{
+
+  max-width: 80%;
+  margin: 0 auto;
+
+}
